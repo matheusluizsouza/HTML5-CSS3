@@ -21,7 +21,7 @@ Acessar exercícios:
 
 <a href="https://matheusluizsouza.github.io/HTML5-CSS3/Exercícios/ex008/index.html" target="_blank">Exercício 08</a>
 
-<a href="https://matheusluizsouza.github.io/HTML5-CSS3/Exercícios/ex009/index.html" target="_blank">Exercício 08</a>
+<a href="https://matheusluizsouza.github.io/HTML5-CSS3/Exercícios/ex009/index.html" target="_blank">Exercício 09</a>
 
 
 Acessar Desafios:
