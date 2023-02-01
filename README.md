@@ -5,7 +5,7 @@
 
 Acessar exercícios:
 
-<a href="https://matheusluizsouza.github.io/HTML5-CSS3/Exercícios/ex001/index.html" target="_blank" >Exercício 01</a>
+<a href="https://matheusluizsouza.github.io/HTML5-CSS3/Exercícios/ex001/index.html" target="_blank">Exercício 01</a>
 
 <a href="https://matheusluizsouza.github.io/HTML5-CSS3/Exercícios/ex002/index.html" target="_blank">Exercício 02</a>
 
